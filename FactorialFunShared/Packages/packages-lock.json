@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.factorialfun.shared": {
-      "version": "file:D:/Projects/Personal/FactorialFunShared/Packages/FactorialFunShared",
+      "version": "file:../../Packages/FactorialFunShared/",
       "depth": 0,
       "source": "local",
       "dependencies": {}

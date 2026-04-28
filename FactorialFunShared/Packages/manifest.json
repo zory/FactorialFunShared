@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.factorialfun.shared": "file:D:/Projects/Personal/FactorialFunShared/Packages/FactorialFunShared",
+    "com.factorialfun.shared": "file:../../Packages/FactorialFunShared/",
     "com.unity.collab-proxy": "2.12.4",
     "com.unity.feature.2d": "2.0.1",
     "com.unity.ide.rider": "3.0.31",
